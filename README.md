@@ -174,8 +174,98 @@ de la figura 13-42 a su forma más simple.
 
 
 
+1.a. ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?  
+  b. Para cada circuito de la figura 14-37, determine iS y vL inmediatamente después de que el interruptor se cierra
+
+![parte 1 1](https://user-images.githubusercontent.com/81887698/130721454-26821129-5c8a-40bd-8fa9-028b4da84c90.PNG)
+
+![parte 1 2](https://user-images.githubusercontent.com/81887698/130721477-fe8ef96b-519a-43b7-a527-314940159b53.PNG)
+
+![1 3](https://user-images.githubusercontent.com/81887698/130721816-bc9ae75b-652a-479e-bf9f-b94f0c69732e.PNG)
 
 
+
+3. Repita el problema 2 si L1 se reemplaza con un capacitor descargado.
+
+![3 1](https://user-images.githubusercontent.com/81887698/130721528-3fc153b2-8bef-49dd-85e5-3a0937dad4c2.PNG)
+
+![3 2](https://user-images.githubusercontent.com/81887698/130721536-51527c05-07ce-4388-a6a5-c43a9016d8ca.PNG)
+
+![3 3](https://user-images.githubusercontent.com/81887698/130721544-f0c262c6-4cc9-4f4f-9c5c-af85c2e7699e.PNG)
+
+
+5. El interruptor de la figura 14-39 está cerrado en t = 0 s.
+
+    a. ¿Cuál es la constante de tiempo del circuito? 
+
+    ![5 1](https://user-images.githubusercontent.com/81887698/130721559-d75e2a7f-9060-4e44-aa28-68c320545393.PNG)
+
+
+    b. ¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+    ![5 2](https://user-images.githubusercontent.com/81887698/130721570-f05c5980-862e-4cd4-908d-ae80cead8584.PNG)
+
+    c. Determine las ecuaciones para iL y vL. 
+
+    ![5 3](https://user-images.githubusercontent.com/81887698/130721582-ea305c67-3147-4866-9fe5-9fe664122fae.PNG)
+
+
+    d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t. 
+
+    ![5 4](https://user-images.githubusercontent.com/81887698/130721596-8c7124bc-457d-49ad-bfbb-b879b592e9c7.PNG)
+
+![5 5](https://user-images.githubusercontent.com/81887698/130721602-f0cafb2e-7f7d-4d42-9531-c57890ca4646.PNG)
+
+![5 6](https://user-images.githubusercontent.com/81887698/130721607-b0430032-d779-47c8-8fe2-7f1d8631139a.PNG)
+
+
+7. Repita el problema 5 para el circuito de la figura 14-41 con L 4 H.
+
+   ![7](https://user-images.githubusercontent.com/81887698/130721687-4a38bdfe-9de5-474d-8951-322749e3b5a6.PNG)
+
+
+   a.	¿Cuál es la constante de tiempo del circuito?
+
+   ![7 1](https://user-images.githubusercontent.com/81887698/130721618-b5793675-65a4-4192-beab-9952e7ebe8b3.PNG)
+
+
+   b.	¿Cuánto tiempo pasa hasta que la corriente alcanza su valor estable?
+
+   ![7 2](https://user-images.githubusercontent.com/81887698/130721627-7e46d233-9aab-44bd-b3f7-f957e6466484.PNG)
+
+
+   c.	Determine las ecuaciones para iL y vL.
+
+   ![7 3](https://user-images.githubusercontent.com/81887698/130721632-5bcff3b7-421b-4942-baff-2a75bb1e248c.PNG)
+
+
+   d. Calcule los valores para iL y vL a intervalos de una constante de tiempo desde t = 0 hasta 5 t. 
+
+   ![7 4](https://user-images.githubusercontent.com/81887698/130721643-593f49f1-9451-49a2-b362-20443de4e2c7.PNG)
+
+![7 5](https://user-images.githubusercontent.com/81887698/130721644-fa859bf9-cb24-4b5d-ac2a-75653e5b4064.PNG)
+![7](https://user-images.githubusercontent.com/81887698/130721674-d9392843-7441-4c95-8aa5-6d4d43c25a4e.PNG)
+
+![7 6](https://user-images.githubusercontent.com/81887698/130721655-364aa58b-3800-401b-b6ca-2e8237927330.PNG)
+
+
+9. Cierre el interruptor en t 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL en t 3.4 ms.
+
+![9 1](https://user-images.githubusercontent.com/81887698/130721701-3bcd8059-24e6-4318-8fe3-f91b246680d6.PNG)
+
+![9 2](https://user-images.githubusercontent.com/81887698/130721709-eaaa3dfe-cb2c-44f9-949a-40b69f121ee2.PNG)
+
+![9 3](https://user-images.githubusercontent.com/81887698/130721719-f6c5f42c-b56c-45a1-b893-cc04e602952f.PNG)
+
+
+11. Para el circuito de la figura 14-1(b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente final de estado estable es 4 A, y el transitorio dura 0.5 s. Determine E, R y L
+
+![11](https://user-images.githubusercontent.com/81887698/130721741-aa075b45-8ab1-4688-8e1b-40a2cfd6690d.PNG)
+
+13. Para la figura 14-1(b), si vL 40e^2000t V y la corriente de estado estable es 10 mA, ¿cuáles son los valores de E, R y L?
+
+![13](https://user-images.githubusercontent.com/81887698/130721762-c6009bd6-c7a3-4459-8b0f-382ec99ad9fb.PNG)
+![13 1](https://user-images.githubusercontent.com/81887698/130721764-380beeb1-0929-4d22-8f4d-1a4a586c033e.PNG)
 
 
 
